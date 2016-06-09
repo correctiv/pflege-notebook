@@ -17,28 +17,28 @@ What's in this repo
 
 The data is as follows:
 
-English header | German meaning
-----------
-`total_personnel`| Personal insgesamt
-`fully_employed`| Vollzeitbeschäftigt 
-`part-time`| Teilzeitbeschäftigt
-`nursing_and_care`| Pflege und Betreuung 
-`social_care`| soziale Betreuung
-`other_care`| zusätzliche Betreuung (§ 87b SGB XI)
-`costs_nursing_class_1`| Pflegeklasse 1
-`costs_nursing_class_2`| Pflegeklasse 2
-`costs_nursing_class_3`| Pflegeklasse 3
-`food`|    Verpflegung
-`1-bed` | 1-Bett-Zimmern
-`2-bed`| 2-Bett-Zimmern
-`3-bed`|  3-Bett-Zimmern
-`4-bed`| 4 und mehr-Bett-Zimmern
-`recipients_nursing_class_1`| Pflegestufe I
-`recipients_nursing_class_2`| Pflegestufe II
-`recipients_nursing_class_3`| Pflegestufe III
-`recipients_nursing_class_unknown`|   Pflegestufe zugeordnet
-`trainee`| Auszubildende/-r, (Um-)Schüler/-in
-`state_certified`| staatlich anerkannte/-r Altenpfleger/-in
-`nurse`| Gesundheits- und Krankenpfleger/-in
-`nurse_children`| Gesundheits- und Kinderkrankenpfleger/-in
+|English header | German meaning|
+|---------------|---------------|
+|`total_personnel`| Personal insgesamt|
+|`fully_employed`| Vollzeitbeschäftigt|
+|`part-time`| Teilzeitbeschäftigt|
+|`nursing_and_care`| Pflege und Betreuung|
+|`social_care`| soziale Betreuung|
+|`other_care`| zusätzliche Betreuung (§ 87b SGB XI)|
+|`costs_nursing_class_1`| Pflegeklasse 1|
+|`costs_nursing_class_2`| Pflegeklasse 2|
+|`costs_nursing_class_3`| Pflegeklasse 3|
+|`food`|    Verpflegung|
+|`1-bed` | 1-Bett-Zimmern|
+|`2-bed`| 2-Bett-Zimmern|
+|`3-bed`|  3-Bett-Zimmern|
+|`4-bed`| 4 und mehr-Bett-Zimmern|
+|`recipients_nursing_class_1`| Pflegestufe I|
+|`recipients_nursing_class_2`| Pflegestufe II|
+|`recipients_nursing_class_3`| Pflegestufe III|
+|`recipients_nursing_class_unknown`| Pflegestufe zugeordnet|
+|`trainee`| Auszubildende/-r, (Um-)Schüler/-in|
+|`state_certified`| staatlich anerkannte/-r Altenpfleger/-in|
+|`nurse`| Gesundheits- und Krankenpfleger/-in|
+|`nurse_children`| Gesundheits- und Kinderkrankenpfleger/-in|
 
